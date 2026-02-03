@@ -16,8 +16,8 @@ export const metadata: Metadata = {
   },
   authors: [
     {
-      name: "Natthawut",
-      url: "https://github.com/IValentineI"
+      name: "Sorawit",
+      url: "https://github.com/lSoLoVEl"
     },
   ],
 };

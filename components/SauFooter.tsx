@@ -4,7 +4,7 @@ export function SauFooter() {
       <h3 className="text-center text-medium">
         Southeast Asia University
         <br />
-        Copyright &copy; 2024 by Natthawut
+        Copyright &copy; 2024 by Sorawit
       </h3>
     </div>
   );
