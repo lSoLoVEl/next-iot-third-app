@@ -2,5 +2,5 @@
 
 ## เว็บคำนวณผลรวมต่างๆ BMI Calculator, BMR Calculator, Car Installment
 
-<img width="844" height="877" alt="image" src="[https://github.com/user-attachments/assets/354c8ff2-37a2-4d83-88ca-4e953effc293](https://github.com/lSoLoVEl/next-iot-third-app/blob/main/assets/images/Next-Iot-Third-App.png?raw=true)" />
 
+<img width="1360" height="682" alt="Next-Iot-Third-App" src="https://github.com/user-attachments/assets/c317e16a-fd40-4bc9-8425-03e66c1b8445" />
